@@ -98,15 +98,15 @@ Netflix-Data-Analysis-PowerBI/
 ## 📷 Dashboard Preview
 
 **Individual Show Insights**
-![Screenshot 87](Screenshot%20\(87\).png)
+<img width="1328" height="735" alt="Netflix dashboard" src="https://github.com/user-attachments/assets/605f61f0-bff9-40c1-9d3d-fab9ed75d5cb" />
+
 
 **Global Analysis Overview**
-![Screenshot 88](Screenshot%20\(88\).png)
+<img width="1334" height="750" alt="Netflix Dashboard 2" src="https://github.com/user-attachments/assets/a84fded1-c0cf-4fa5-a71a-dddf3d386c65" />
 
 **Data Model**
-![Screenshot 89](Screenshot%20\(89\).png)
+---<img width="1244" height="748" alt="Netflix Data Tabels" src="https://github.com/user-attachments/assets/7f267c91-fcdd-4646-952c-179e10e7a847" />
 
----
 
 ## 🚀 How to Use
 
